@@ -1,0 +1,459 @@
+commodity: CU
+month: '201406'
+records:
+  '20130618':
+    last_settled: null
+    open: 51170
+    high: 51170
+    low: 51170
+    close: 51170
+    settled: 51170
+    diff1: 0
+    diff2: 0
+    amount: 10
+    hold: 10
+    hold_diff: 10
+  '20130619':
+    last_settled: 51170
+    open: 51000
+    high: 51000
+    low: 50790
+    close: 50980
+    settled: 50960
+    diff1: -190
+    diff2: -210
+    amount: 14
+    hold: 4
+    hold_diff: -6
+  '20130620':
+    last_settled: 50960
+    open: 50590
+    high: 50590
+    low: 49880
+    close: 49900
+    settled: 50070
+    diff1: -1060
+    diff2: -890
+    amount: 48
+    hold: 30
+    hold_diff: 26
+  '20130621':
+    last_settled: 50070
+    open: 49280
+    high: 50000
+    low: 48800
+    close: 49850
+    settled: 49730
+    diff1: -220
+    diff2: -340
+    amount: 322
+    hold: 206
+    hold_diff: 176
+  '20130624':
+    last_settled: 49730
+    open: 49560
+    high: 49560
+    low: 48460
+    close: 48490
+    settled: 49250
+    diff1: -1240
+    diff2: -480
+    amount: 516
+    hold: 570
+    hold_diff: 364
+  '20130625':
+    last_settled: 49250
+    open: 48530
+    high: 49350
+    low: 48090
+    close: 49350
+    settled: 48540
+    diff1: 100
+    diff2: -710
+    amount: 334
+    hold: 608
+    hold_diff: 38
+  '20130626':
+    last_settled: 48540
+    open: 49700
+    high: 49700
+    low: 48550
+    close: 48730
+    settled: 49090
+    diff1: 190
+    diff2: 550
+    amount: 168
+    hold: 674
+    hold_diff: 66
+  '20130627':
+    last_settled: 49090
+    open: 48790
+    high: 49490
+    low: 48740
+    close: 49360
+    settled: 49160
+    diff1: 270
+    diff2: 70
+    amount: 300
+    hold: 792
+    hold_diff: 118
+  '20130628':
+    last_settled: 49160
+    open: 48600
+    high: 49300
+    low: 48530
+    close: 49020
+    settled: 49000
+    diff1: -140
+    diff2: -160
+    amount: 196
+    hold: 822
+    hold_diff: 30
+  '20130701':
+    last_settled: 49000
+    open: 49090
+    high: 49910
+    low: 49050
+    close: 49910
+    settled: 49410
+    diff1: 910
+    diff2: 410
+    amount: 160
+    hold: 832
+    hold_diff: 10
+  '20130702':
+    last_settled: 49410
+    open: 50150
+    high: 50520
+    low: 49980
+    close: 50520
+    settled: 50270
+    diff1: 1110
+    diff2: 860
+    amount: 102
+    hold: 832
+    hold_diff: 0
+  '20130703':
+    last_settled: 50270
+    open: 50330
+    high: 50750
+    low: 50200
+    close: 50730
+    settled: 50440
+    diff1: 460
+    diff2: 170
+    amount: 136
+    hold: 838
+    hold_diff: 6
+  '20130704':
+    last_settled: 50440
+    open: 50750
+    high: 50750
+    low: 50220
+    close: 50290
+    settled: 50400
+    diff1: -150
+    diff2: -40
+    amount: 182
+    hold: 866
+    hold_diff: 28
+  '20130705':
+    last_settled: 50400
+    open: 50160
+    high: 50160
+    low: 49520
+    close: 49520
+    settled: 49720
+    diff1: -880
+    diff2: -680
+    amount: 150
+    hold: 890
+    hold_diff: 24
+  '20130708':
+    last_settled: 49720
+    open: 49150
+    high: 49150
+    low: 48630
+    close: 48640
+    settled: 48840
+    diff1: -1080
+    diff2: -880
+    amount: 142
+    hold: 882
+    hold_diff: -8
+  '20130709':
+    last_settled: 48840
+    open: 48890
+    high: 49300
+    low: 48710
+    close: 49060
+    settled: 49050
+    diff1: 220
+    diff2: 210
+    amount: 150
+    hold: 890
+    hold_diff: 8
+  '20130710':
+    last_settled: 49050
+    open: 48530
+    high: 48710
+    low: 48030
+    close: 48620
+    settled: 48360
+    diff1: -430
+    diff2: -690
+    amount: 308
+    hold: 918
+    hold_diff: 28
+  '20130711':
+    last_settled: 48360
+    open: 49550
+    high: 50770
+    low: 49550
+    close: 50680
+    settled: 50460
+    diff1: 2320
+    diff2: 2100
+    amount: 424
+    hold: 994
+    hold_diff: 76
+  '20130712':
+    last_settled: 50460
+    open: 50500
+    high: 50500
+    low: 49680
+    close: 49680
+    settled: 50280
+    diff1: -780
+    diff2: -180
+    amount: 150
+    hold: 1010
+    hold_diff: 16
+  '20130715':
+    last_settled: 50280
+    open: 49840
+    high: 50280
+    low: 49760
+    close: 49900
+    settled: 49980
+    diff1: -380
+    diff2: -300
+    amount: 180
+    hold: 1022
+    hold_diff: 12
+  '20130716':
+    last_settled: 49980
+    open: 50010
+    high: 50190
+    low: 49800
+    close: 50190
+    settled: 49980
+    diff1: 210
+    diff2: 0
+    amount: 66
+    hold: 1050
+    hold_diff: 28
+  '20130717':
+    last_settled: 49980
+    open: 50120
+    high: 50720
+    low: 49870
+    close: 49870
+    settled: 50290
+    diff1: -110
+    diff2: 310
+    amount: 134
+    hold: 1062
+    hold_diff: 12
+  '20130718':
+    last_settled: 50290
+    open: 49780
+    high: 49780
+    low: 49410
+    close: 49650
+    settled: 49560
+    diff1: -640
+    diff2: -730
+    amount: 84
+    hold: 1076
+    hold_diff: 14
+  '20130719':
+    last_settled: 49560
+    open: 50090
+    high: 50220
+    low: 49540
+    close: 49580
+    settled: 49940
+    diff1: 20
+    diff2: 380
+    amount: 60
+    hold: 1074
+    hold_diff: -2
+  '20130722':
+    last_settled: 49940
+    open: 50110
+    high: 50300
+    low: 49910
+    close: 50280
+    settled: 50150
+    diff1: 340
+    diff2: 210
+    amount: 114
+    hold: 1088
+    hold_diff: 14
+  '20130723':
+    last_settled: 50150
+    open: 50460
+    high: 50620
+    low: 50210
+    close: 50230
+    settled: 50380
+    diff1: 80
+    diff2: 230
+    amount: 192
+    hold: 1146
+    hold_diff: 58
+  '20130724':
+    last_settled: 50380
+    open: 50560
+    high: 50600
+    low: 50180
+    close: 50480
+    settled: 50420
+    diff1: 100
+    diff2: 40
+    amount: 90
+    hold: 1130
+    hold_diff: -16
+  '20130725':
+    last_settled: 50420
+    open: 50310
+    high: 50500
+    low: 50230
+    close: 50390
+    settled: 50390
+    diff1: -30
+    diff2: -30
+    amount: 84
+    hold: 1138
+    hold_diff: 8
+  '20130726':
+    last_settled: 50390
+    open: 50560
+    high: 50560
+    low: 49910
+    close: 49990
+    settled: 50210
+    diff1: -400
+    diff2: -180
+    amount: 52
+    hold: 1132
+    hold_diff: -6
+  '20130729':
+    last_settled: 50210
+    open: 49210
+    high: 49290
+    low: 48960
+    close: 49120
+    settled: 49130
+    diff1: -1090
+    diff2: -1080
+    amount: 276
+    hold: 1202
+    hold_diff: 70
+  '20130730':
+    last_settled: 49130
+    open: 49140
+    high: 49260
+    low: 49000
+    close: 49000
+    settled: 49160
+    diff1: -130
+    diff2: 30
+    amount: 150
+    hold: 1258
+    hold_diff: 56
+  '20130731':
+    last_settled: 49160
+    open: 48700
+    high: 49150
+    low: 48690
+    close: 49150
+    settled: 48880
+    diff1: -10
+    diff2: -280
+    amount: 134
+    hold: 1308
+    hold_diff: 50
+  '20130801':
+    last_settled: 48880
+    open: 49610
+    high: 50040
+    low: 49520
+    close: 49760
+    settled: 49760
+    diff1: 880
+    diff2: 880
+    amount: 102
+    hold: 1310
+    hold_diff: 2
+  '20130802':
+    last_settled: 49760
+    open: 50210
+    high: 50210
+    low: 49700
+    close: 49940
+    settled: 49980
+    diff1: 180
+    diff2: 220
+    amount: 160
+    hold: 1324
+    hold_diff: 14
+  '20130805':
+    last_settled: 49980
+    open: 49920
+    high: 50160
+    low: 49920
+    close: 50120
+    settled: 50100
+    diff1: 140
+    diff2: 120
+    amount: 294
+    hold: 1560
+    hold_diff: 236
+  '20130806':
+    last_settled: 50100
+    open: 50010
+    high: 50100
+    low: 49830
+    close: 50100
+    settled: 49980
+    diff1: 0
+    diff2: -120
+    amount: 46
+    hold: 1570
+    hold_diff: 10
+  '20130807':
+    last_settled: 49980
+    open: 49850
+    high: 50000
+    low: 49760
+    close: 49930
+    settled: 49870
+    diff1: -50
+    diff2: -110
+    amount: 92
+    hold: 1558
+    hold_diff: -12
+  '20130808':
+    last_settled: 49870
+    open: 50430
+    high: 51030
+    low: 50430
+    close: 
+    settled: 
+    diff1: 
+    diff2: 
+    amount: 86
+    hold: 1568
+    hold_diff: 10

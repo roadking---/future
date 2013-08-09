@@ -1,0 +1,31 @@
+extends ../layout
+
+block content
+	h3 GA
+	
+	h4 analysis
+	dl
+		dt fitness
+		dd= rlt.fitness
+		dt count
+		dd= rlt.count
+	h4 trade
+	ul
+		each c in _.keys(rlt.trades)
+			li 
+				a(href='/contract/#{c}')= c
+				span.trade_count #{rlt.trades[c].length}
+				if rlt.trades[c].length
+					ul
+						each t in rlt.trades[c]
+							li.trades
+								span= t.date
+								span= t.revertDate
+								span= t.direction
+								span= t.seq
+								if t.win <= 0
+									span.win_negative= t.win
+								else
+									span.win_positive= t.win
+
+	

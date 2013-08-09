@@ -1,0 +1,120 @@
+commodity: 焦煤
+month: '201310'
+records:
+  '20130322':
+    open: 1300
+    high: 1333
+    low: 1261
+    close: 1301
+    settled: 1360
+    last_settled: 1293
+    diff1: -59
+    diff2: -67
+    amount: 292
+    hold: 44
+    hold_diff: 44
+    amount_money: 2265.89
+  '20130325':
+    open: 1275
+    high: 1327
+    low: 1275
+    close: 1277
+    settled: 1293
+    last_settled: 1287
+    diff1: -16
+    diff2: -6
+    amount: 98
+    hold: 12
+    hold_diff: -32
+    amount_money: 757.01
+  '20130326':
+    open: 1279
+    high: 1279
+    low: 1279
+    close: 1279
+    settled: 1287
+    last_settled: 1279
+    diff1: -8
+    diff2: -8
+    amount: 6
+    hold: 10
+    hold_diff: -2
+    amount_money: 46.05
+  '20130327':
+    open: 1286
+    high: 1290
+    low: 1286
+    close: 1289
+    settled: 1279
+    last_settled: 1288
+    diff1: 10
+    diff2: 9
+    amount: 12
+    hold: 14
+    hold_diff: 4
+    amount_money: 92.75
+  '20130328':
+    open: 1289
+    high: 1291
+    low: 1271
+    close: 1271
+    settled: 1288
+    last_settled: 1285
+    diff1: -17
+    diff2: -3
+    amount: 22
+    hold: 12
+    hold_diff: -2
+    amount_money: 169.67
+  '20130329':
+    open: 1273
+    high: 1295
+    low: 1268
+    close: 1268
+    settled: 1285
+    last_settled: 1281
+    diff1: -17
+    diff2: -4
+    amount: 16
+    hold: 12
+    hold_diff: 0
+    amount_money: 123.04
+  '20130401':
+    open: 1256
+    high: 1256
+    low: 1238
+    close: 1238
+    settled: 1281
+    last_settled: 1247
+    diff1: -43
+    diff2: -34
+    amount: 4
+    hold: 12
+    hold_diff: 0
+    amount_money: 29.93
+  '20130402':
+    open: 1235
+    high: 1250
+    low: 1235
+    close: 1250
+    settled: 1247
+    last_settled: 1241
+    diff1: 3
+    diff2: -6
+    amount: 8
+    hold: 16
+    hold_diff: 4
+    amount_money: 59.6
+  '20130403':
+    open: 1242
+    high: 1252
+    low: 1242
+    close: 1248
+    settled: 1241
+    last_settled: 1246
+    diff1: 7
+    diff2: 5
+    amount: 12
+    hold: 14
+    hold_diff: -2
+    amount_money: 89.74

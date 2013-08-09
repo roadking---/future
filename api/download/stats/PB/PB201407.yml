@@ -1,0 +1,219 @@
+commodity: PB
+month: '201407'
+records:
+  '20130716':
+    last_settled: 14470
+    open: null
+    high: null
+    low: null
+    close: 14450
+    settled: 14450
+    diff1: -20
+    diff2: -20
+    amount: null
+    hold: null
+    hold_diff: 0
+  '20130717':
+    last_settled: 14450
+    open: null
+    high: null
+    low: null
+    close: 14470
+    settled: 14470
+    diff1: 20
+    diff2: 20
+    amount: null
+    hold: null
+    hold_diff: 0
+  '20130718':
+    last_settled: 14470
+    open: null
+    high: null
+    low: null
+    close: 14440
+    settled: 14440
+    diff1: -30
+    diff2: -30
+    amount: null
+    hold: null
+    hold_diff: 0
+  '20130719':
+    last_settled: 14440
+    open: null
+    high: null
+    low: null
+    close: 14460
+    settled: 14460
+    diff1: 20
+    diff2: 20
+    amount: null
+    hold: null
+    hold_diff: 0
+  '20130722':
+    last_settled: 14460
+    open: null
+    high: null
+    low: null
+    close: 14470
+    settled: 14470
+    diff1: 10
+    diff2: 10
+    amount: null
+    hold: null
+    hold_diff: 0
+  '20130723':
+    last_settled: 14470
+    open: null
+    high: null
+    low: null
+    close: 14485
+    settled: 14485
+    diff1: 15
+    diff2: 15
+    amount: null
+    hold: null
+    hold_diff: 0
+  '20130724':
+    last_settled: 14485
+    open: null
+    high: null
+    low: null
+    close: 14550
+    settled: 14550
+    diff1: 65
+    diff2: 65
+    amount: null
+    hold: null
+    hold_diff: 0
+  '20130725':
+    last_settled: 14550
+    open: null
+    high: null
+    low: null
+    close: 14550
+    settled: 14550
+    diff1: 0
+    diff2: 0
+    amount: null
+    hold: null
+    hold_diff: 0
+  '20130726':
+    last_settled: 14550
+    open: null
+    high: null
+    low: null
+    close: 14550
+    settled: 14550
+    diff1: 0
+    diff2: 0
+    amount: null
+    hold: null
+    hold_diff: 0
+  '20130729':
+    last_settled: 14550
+    open: null
+    high: null
+    low: null
+    close: 14470
+    settled: 14470
+    diff1: -80
+    diff2: -80
+    amount: null
+    hold: null
+    hold_diff: 0
+  '20130730':
+    last_settled: 14470
+    open: null
+    high: null
+    low: null
+    close: 14465
+    settled: 14465
+    diff1: -5
+    diff2: -5
+    amount: null
+    hold: null
+    hold_diff: 0
+  '20130731':
+    last_settled: 14465
+    open: null
+    high: null
+    low: null
+    close: 14435
+    settled: 14435
+    diff1: -30
+    diff2: -30
+    amount: null
+    hold: null
+    hold_diff: 0
+  '20130801':
+    last_settled: 14435
+    open: null
+    high: null
+    low: null
+    close: 14520
+    settled: 14520
+    diff1: 85
+    diff2: 85
+    amount: null
+    hold: null
+    hold_diff: 0
+  '20130802':
+    last_settled: 14520
+    open: null
+    high: null
+    low: null
+    close: 14540
+    settled: 14540
+    diff1: 20
+    diff2: 20
+    amount: null
+    hold: null
+    hold_diff: 0
+  '20130805':
+    last_settled: 14540
+    open: null
+    high: null
+    low: null
+    close: 14575
+    settled: 14575
+    diff1: 35
+    diff2: 35
+    amount: null
+    hold: null
+    hold_diff: 0
+  '20130806':
+    last_settled: 14575
+    open: null
+    high: null
+    low: null
+    close: 14595
+    settled: 14595
+    diff1: 20
+    diff2: 20
+    amount: null
+    hold: null
+    hold_diff: 0
+  '20130807':
+    last_settled: 14595
+    open: null
+    high: null
+    low: null
+    close: 14605
+    settled: 14605
+    diff1: 10
+    diff2: 10
+    amount: null
+    hold: null
+    hold_diff: 0
+  '20130808':
+    last_settled: 14605
+    open: 
+    high: 
+    low: 
+    close: 
+    settled: 
+    diff1: 
+    diff2: 
+    amount: 
+    hold: 
+    hold_diff: 0

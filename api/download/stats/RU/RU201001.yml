@@ -1,0 +1,123 @@
+commodity: RU
+month: '201001'
+records:
+  '20100104':
+    last_settled: 23540
+    open: 23850
+    high: 23850
+    low: 23600
+    close: 23670
+    settled: 23785
+    diff1: 130
+    diff2: 245
+    amount: 126
+    hold: 15580
+    hold_diff: -30
+  '20100105':
+    last_settled: 23785
+    open: 23880
+    high: 23880
+    low: 23785
+    close: 23800
+    settled: 23820
+    diff1: 15
+    diff2: 35
+    amount: 742
+    hold: 15476
+    hold_diff: -104
+  '20100106':
+    last_settled: 23820
+    open: 23800
+    high: 24385
+    low: 23800
+    close: 24210
+    settled: 24000
+    diff1: 390
+    diff2: 180
+    amount: 926
+    hold: 15460
+    hold_diff: -16
+  '20100107':
+    last_settled: 24000
+    open: 24580
+    high: 24675
+    low: 23425
+    close: 24000
+    settled: 24100
+    diff1: 0
+    diff2: 100
+    amount: 318
+    hold: 15442
+    hold_diff: -18
+  '20100108':
+    last_settled: 24100
+    open: 24280
+    high: 24375
+    low: 23800
+    close: 24205
+    settled: 24065
+    diff1: 105
+    diff2: -35
+    amount: 304
+    hold: 15526
+    hold_diff: 84
+  '20100111':
+    last_settled: 24065
+    open: 24690
+    high: 25230
+    low: 24455
+    close: 25230
+    settled: 24765
+    diff1: 1165
+    diff2: 700
+    amount: 356
+    hold: 15448
+    hold_diff: -78
+  '20100112':
+    last_settled: 24765
+    open: 24815
+    high: 25100
+    low: 24630
+    close: 24995
+    settled: 24950
+    diff1: 230
+    diff2: 185
+    amount: 320
+    hold: 15444
+    hold_diff: -4
+  '20100113':
+    last_settled: 24950
+    open: 24180
+    high: 24790
+    low: 24180
+    close: 24300
+    settled: 24470
+    diff1: -650
+    diff2: -480
+    amount: 724
+    hold: 15312
+    hold_diff: -132
+  '20100114':
+    last_settled: 24470
+    open: 24950
+    high: 24970
+    low: 24680
+    close: 24800
+    settled: 24805
+    diff1: 330
+    diff2: 335
+    amount: 248
+    hold: 15230
+    hold_diff: -82
+  '20100115':
+    last_settled: 24805
+    open: 24800
+    high: 24800
+    low: 24050
+    close: 24200
+    settled: 24420
+    diff1: -605
+    diff2: -385
+    amount: 836
+    hold: 15272
+    hold_diff: 42

@@ -1,0 +1,19 @@
+extends layout
+
+block content
+	- var columns = _.keys(prices[0])
+	table
+		tr
+			each col in columns
+				th= col
+		each p in prices
+			tr
+				each col in columns
+					if col == 'contract'
+						td: a(href='/contract/#{p[col]}')= p[col]
+					else if col == 'buy_price'
+						td: a(href='/buy/#{p.contract}/#{p.buy_price}')= p[col]
+					else if col == 'sell_price'
+						td: a(href='/sell/#{p.contract}/#{p.sell_price}')= p[col]
+					else
+						td= p[col]

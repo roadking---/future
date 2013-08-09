@@ -1,0 +1,123 @@
+commodity: AL
+month: '201001'
+records:
+  '20100104':
+    last_settled: 16700
+    open: 16620
+    high: 16800
+    low: 16510
+    close: 16680
+    settled: 16715
+    diff1: -20
+    diff2: 15
+    amount: 2090
+    hold: 23050
+    hold_diff: -450
+  '20100105':
+    last_settled: 16715
+    open: 16760
+    high: 16950
+    low: 16720
+    close: 16945
+    settled: 16825
+    diff1: 230
+    diff2: 110
+    amount: 3300
+    hold: 22540
+    hold_diff: -510
+  '20100106':
+    last_settled: 16825
+    open: 16980
+    high: 17660
+    low: 16980
+    close: 17560
+    settled: 17355
+    diff1: 735
+    diff2: 530
+    amount: 5470
+    hold: 20830
+    hold_diff: -1710
+  '20100107':
+    last_settled: 17355
+    open: 17600
+    high: 18010
+    low: 17010
+    close: 17300
+    settled: 17470
+    diff1: -55
+    diff2: 115
+    amount: 2660
+    hold: 19850
+    hold_diff: -980
+  '20100108':
+    last_settled: 17470
+    open: 17200
+    high: 17330
+    low: 16705
+    close: 17065
+    settled: 17075
+    diff1: -405
+    diff2: -395
+    amount: 3220
+    hold: 18600
+    hold_diff: -1250
+  '20100111':
+    last_settled: 17075
+    open: 17350
+    high: 17550
+    low: 17290
+    close: 17550
+    settled: 17400
+    diff1: 475
+    diff2: 325
+    amount: 3570
+    hold: 18380
+    hold_diff: -220
+  '20100112':
+    last_settled: 17400
+    open: 17550
+    high: 17700
+    low: 17400
+    close: 17600
+    settled: 17540
+    diff1: 200
+    diff2: 140
+    amount: 1240
+    hold: 18400
+    hold_diff: 20
+  '20100113':
+    last_settled: 17540
+    open: 17260
+    high: 17260
+    low: 16700
+    close: 17000
+    settled: 17025
+    diff1: -540
+    diff2: -515
+    amount: 5340
+    hold: 16270
+    hold_diff: -2130
+  '20100114':
+    last_settled: 17025
+    open: 17150
+    high: 17240
+    low: 17135
+    close: 17170
+    settled: 17195
+    diff1: 145
+    diff2: 170
+    amount: 1620
+    hold: 14980
+    hold_diff: -1290
+  '20100115':
+    last_settled: 17195
+    open: 17200
+    high: 17365
+    low: 16900
+    close: 17150
+    settled: 17205
+    diff1: -45
+    diff2: 10
+    amount: 3140
+    hold: 14680
+    hold_diff: -300

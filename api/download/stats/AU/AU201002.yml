@@ -1,0 +1,327 @@
+commodity: AU
+month: '201002'
+records:
+  '20100104':
+    last_settled: 243.8
+    open: 244.22
+    high: 245.35
+    low: 243.52
+    close: 244.3
+    settled: 244.4
+    diff1: 0.5
+    diff2: 0.6
+    amount: 18
+    hold: 76
+    hold_diff: -4
+  '20100105':
+    last_settled: 244.4
+    open: 248.84
+    high: 250.17
+    low: 248.53
+    close: 250.17
+    settled: 249.47
+    diff1: 5.77
+    diff2: 5.07
+    amount: 14
+    hold: 80
+    hold_diff: 4
+  '20100106':
+    last_settled: 249.47
+    open: 250.9
+    high: 250.9
+    low: 250.9
+    close: 250.9
+    settled: 250.9
+    diff1: 1.43
+    diff2: 1.43
+    amount: 6
+    hold: 74
+    hold_diff: -6
+  '20100107':
+    last_settled: 250.9
+    open: 249
+    high: 249
+    low: 249
+    close: 249
+    settled: 249
+    diff1: -1.9
+    diff2: -1.9
+    amount: 2
+    hold: 74
+    hold_diff: 0
+  '20100108':
+    last_settled: 249
+    open: 246
+    high: 246
+    low: 246
+    close: 246
+    settled: 246
+    diff1: -3
+    diff2: -3
+    amount: 2
+    hold: 74
+    hold_diff: 0
+  '20100111':
+    last_settled: 246
+    open: 252.45
+    high: 252.8
+    low: 251.01
+    close: 252.29
+    settled: 252.25
+    diff1: 6.29
+    diff2: 6.25
+    amount: 46
+    hold: 82
+    hold_diff: 8
+  '20100112':
+    last_settled: 252.25
+    open: 251.56
+    high: 252.1
+    low: 251.56
+    close: 252.1
+    settled: 251.95
+    diff1: -0.15
+    diff2: -0.3
+    amount: 10
+    hold: 82
+    hold_diff: 0
+  '20100113':
+    last_settled: 251.95
+    open: 245.6
+    high: 246.1
+    low: 245.5
+    close: 246.1
+    settled: 245.87
+    diff1: -5.85
+    diff2: -6.08
+    amount: 14
+    hold: 70
+    hold_diff: -12
+  '20100114':
+    last_settled: 245.87
+    open: 248.9
+    high: 251.9
+    low: 248.8
+    close: 250.6
+    settled: 249.95
+    diff1: 4.73
+    diff2: 4.08
+    amount: 28
+    hold: 48
+    hold_diff: -22
+  '20100115':
+    last_settled: 249.95
+    open: 251
+    high: 251
+    low: 246.9
+    close: 247.91
+    settled: 249.5
+    diff1: -2.04
+    diff2: -0.45
+    amount: 18
+    hold: 34
+    hold_diff: -14
+  '20100118':
+    last_settled: 249.5
+    open: null
+    high: null
+    low: null
+    close: 247.91
+    settled: 249.5
+    diff1: -1.59
+    diff2: 0
+    amount: null
+    hold: 34
+    hold_diff: 0
+  '20100119':
+    last_settled: 249.5
+    open: 253
+    high: 254.3
+    low: 251.68
+    close: 251.68
+    settled: 252.17
+    diff1: 2.18
+    diff2: 2.67
+    amount: 212
+    hold: 32
+    hold_diff: -2
+  '20100120':
+    last_settled: 252.17
+    open: 250.91
+    high: 256
+    low: 250.91
+    close: 253
+    settled: 254.44
+    diff1: 0.83
+    diff2: 2.27
+    amount: 18
+    hold: 28
+    hold_diff: -4
+  '20100121':
+    last_settled: 254.44
+    open: null
+    high: null
+    low: null
+    close: 253
+    settled: 254.44
+    diff1: -1.44
+    diff2: 0
+    amount: null
+    hold: 28
+    hold_diff: 0
+  '20100122':
+    last_settled: 254.44
+    open: 246.1
+    high: 247
+    low: 246.1
+    close: 246.7
+    settled: 246.36
+    diff1: -7.74
+    diff2: -8.08
+    amount: 12
+    hold: 26
+    hold_diff: -2
+  '20100125':
+    last_settled: 246.36
+    open: 246.93
+    high: 246.93
+    low: 246.93
+    close: 246.93
+    settled: 246.93
+    diff1: 0.57
+    diff2: 0.57
+    amount: 4
+    hold: 26
+    hold_diff: 0
+  '20100126':
+    last_settled: 246.93
+    open: 243
+    high: 244.9
+    low: 240.02
+    close: 240.02
+    settled: 241.61
+    diff1: -6.91
+    diff2: -5.32
+    amount: 16
+    hold: 20
+    hold_diff: -6
+  '20100127':
+    last_settled: 241.61
+    open: 245
+    high: 247
+    low: 243.8
+    close: 243.9
+    settled: 244.82
+    diff1: 2.29
+    diff2: 3.21
+    amount: 16
+    hold: 16
+    hold_diff: -4
+  '20100128':
+    last_settled: 244.82
+    open: 241
+    high: 241
+    low: 241
+    close: 241
+    settled: 241
+    diff1: -3.82
+    diff2: -3.82
+    amount: 2
+    hold: 16
+    hold_diff: 0
+  '20100129':
+    last_settled: 241
+    open: 240
+    high: 240
+    low: 240
+    close: 240
+    settled: 240
+    diff1: -1
+    diff2: -1
+    amount: 4
+    hold: 12
+    hold_diff: -4
+  '20100201':
+    last_settled: 240
+    open: null
+    high: null
+    low: null
+    close: 240
+    settled: 240
+    diff1: 0
+    diff2: 0
+    amount: null
+    hold: 12
+    hold_diff: 0
+  '20100202':
+    last_settled: 240
+    open: null
+    high: null
+    low: null
+    close: 240
+    settled: 240
+    diff1: 0
+    diff2: 0
+    amount: null
+    hold: 12
+    hold_diff: 0
+  '20100203':
+    last_settled: 240
+    open: null
+    high: null
+    low: null
+    close: 240
+    settled: 240
+    diff1: 0
+    diff2: 0
+    amount: null
+    hold: 12
+    hold_diff: 0
+  '20100204':
+    last_settled: 240
+    open: null
+    high: null
+    low: null
+    close: 240
+    settled: 240
+    diff1: 0
+    diff2: 0
+    amount: null
+    hold: 12
+    hold_diff: 0
+  '20100205':
+    last_settled: 240
+    open: null
+    high: null
+    low: null
+    close: 240
+    settled: 240
+    diff1: 0
+    diff2: 0
+    amount: null
+    hold: 12
+    hold_diff: 0
+  '20100208':
+    last_settled: 240
+    open: null
+    high: null
+    low: null
+    close: 240
+    settled: 240
+    diff1: 0
+    diff2: 0
+    amount: null
+    hold: 12
+    hold_diff: 0
+  '20100209':
+    last_settled: 240
+    open: 
+    high: 
+    low: 
+    close: 240
+    settled: 240
+    diff1: 0
+    diff2: 0
+    amount: 
+    hold: 12
+    hold_diff: 0

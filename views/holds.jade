@@ -1,0 +1,27 @@
+extends layout
+
+block content
+	table#holds
+		tr
+			th contract
+			th direction
+			th od
+			th op
+			th current
+			th amout
+			th win
+		for h in holds
+			tr
+				td= h.contract
+				td= h.direction
+				td= h.od
+				td= h.op
+				td= h.current
+				td= h.amount
+				td= h.win
+				td: a(href='/buy/#{h.contract}/#{h.current}') buy
+				td: a(href='/sell/#{h.contract}/#{h.current}') sell
+	script.
+		setInterval(function(){
+			location.reload();
+		}, 1000*60*3);

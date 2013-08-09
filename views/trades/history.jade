@@ -1,0 +1,24 @@
+extends ../layout
+
+block content
+	h1 history
+	table
+		tr
+			th contract
+			th direction
+			th open date
+			th close date
+			th open price
+			th close price
+			th amount
+			th win
+		each h in history
+			tr
+				td: a(href='/FutureDB/#{h.contract.match(/(\D+)\d*/)[1]}/#{h.contract}.txt')= h.contract
+				td= h.direction
+				td= h.od
+				td= h.cd
+				td= h.op
+				td= h.cp
+				td= h.amount
+				td= h.amount * (h.cp - h.op) * (h.direction == 'UP' ? 1 : -1)

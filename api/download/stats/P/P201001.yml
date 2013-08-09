@@ -1,0 +1,133 @@
+commodity: P
+month: '201001'
+records:
+  '20100104':
+    open: 6264
+    high: 6830
+    low: 6264
+    close: 6830
+    settled: 6662
+    last_settled: 6712
+    diff1: 168
+    diff2: 50
+    amount: 50
+    hold: 4680
+    hold_diff: -44
+    amount_money: 335.63
+  '20100105':
+    open: 6830
+    high: 6830
+    low: 6830
+    close: 6830
+    settled: 6712
+    last_settled: 6830
+    diff1: 118
+    diff2: 118
+    amount: 40
+    hold: 4640
+    hold_diff: -40
+    amount_money: 273.2
+  '20100106':
+    open: 6850
+    high: 6870
+    low: 6850
+    close: 6870
+    settled: 6830
+    last_settled: 6864
+    diff1: 40
+    diff2: 34
+    amount: 300
+    hold: 4340
+    hold_diff: -300
+    amount_money: 2059.4
+  '20100107':
+    open: .NAN
+    high: .NAN
+    low: .NAN
+    close: 6864
+    settled: 6864
+    last_settled: 6864
+    diff1: 0
+    diff2: 0
+    amount: 0
+    hold: 4340
+    hold_diff: 0
+    amount_money: 0
+  '20100108':
+    open: 6870
+    high: 6870
+    low: 6870
+    close: 6870
+    settled: 6864
+    last_settled: 6870
+    diff1: 6
+    diff2: 6
+    amount: 40
+    hold: 4300
+    hold_diff: -40
+    amount_money: 274.8
+  '20100111':
+    open: 6870
+    high: 6870
+    low: 6870
+    close: 6870
+    settled: 6870
+    last_settled: 6870
+    diff1: 0
+    diff2: 0
+    amount: 200
+    hold: 4100
+    hold_diff: -200
+    amount_money: 1374
+  '20100112':
+    open: 6828
+    high: 6830
+    low: 6828
+    close: 6830
+    settled: 6870
+    last_settled: 6828
+    diff1: -40
+    diff2: -42
+    amount: 424
+    hold: 3686
+    hold_diff: -414
+    amount_money: 2895.9
+  '20100113':
+    open: .NAN
+    high: .NAN
+    low: .NAN
+    close: 6828
+    settled: 6828
+    last_settled: 6828
+    diff1: 0
+    diff2: 0
+    amount: 0
+    hold: 3686
+    hold_diff: 0
+    amount_money: 0
+  '20100114':
+    open: 6750
+    high: 6750
+    low: 6750
+    close: 6750
+    settled: 6828
+    last_settled: 6750
+    diff1: -78
+    diff2: -78
+    amount: 36
+    hold: 3650
+    hold_diff: -36
+    amount_money: 243
+  '20100115':
+    open: .NAN
+    high: .NAN
+    low: .NAN
+    close: 6750
+    settled: 6750
+    last_settled: 6840
+    diff1: 0
+    diff2: 90
+    amount: 0
+    hold: 0
+    hold_diff: -3650
+    amount_money: 0

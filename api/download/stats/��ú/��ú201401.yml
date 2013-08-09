@@ -1,0 +1,120 @@
+commodity: 焦煤
+month: '201401'
+records:
+  '20130322':
+    open: 1330
+    high: 1350
+    low: 1308
+    close: 1320
+    settled: 1380
+    last_settled: 1323
+    diff1: -60
+    diff2: -57
+    amount: 2042
+    hold: 888
+    hold_diff: 888
+    amount_money: 16216.2
+  '20130325':
+    open: 1301
+    high: 1335
+    low: 1300
+    close: 1305
+    settled: 1323
+    last_settled: 1307
+    diff1: -18
+    diff2: -16
+    amount: 3074
+    hold: 2782
+    hold_diff: 1894
+    amount_money: 24107.84
+  '20130326':
+    open: 1293
+    high: 1321
+    low: 1293
+    close: 1316
+    settled: 1307
+    last_settled: 1312
+    diff1: 9
+    diff2: 5
+    amount: 1300
+    hold: 3050
+    hold_diff: 268
+    amount_money: 10237.88
+  '20130327':
+    open: 1320
+    high: 1322
+    low: 1308
+    close: 1310
+    settled: 1312
+    last_settled: 1312
+    diff1: -2
+    diff2: 0
+    amount: 446
+    hold: 3102
+    hold_diff: 52
+    amount_money: 3513.2
+  '20130328':
+    open: 1315
+    high: 1319
+    low: 1302
+    close: 1312
+    settled: 1312
+    last_settled: 1314
+    diff1: 0
+    diff2: 2
+    amount: 1118
+    hold: 3670
+    hold_diff: 568
+    amount_money: 8816.44
+  '20130329':
+    open: 1309
+    high: 1327
+    low: 1290
+    close: 1305
+    settled: 1314
+    last_settled: 1317
+    diff1: -9
+    diff2: 3
+    amount: 5302
+    hold: 2852
+    hold_diff: -818
+    amount_money: 41914.61
+  '20130401':
+    open: 1300
+    high: 1309
+    low: 1265
+    close: 1265
+    settled: 1317
+    last_settled: 1283
+    diff1: -52
+    diff2: -34
+    amount: 2342
+    hold: 3086
+    hold_diff: 234
+    amount_money: 18031.91
+  '20130402':
+    open: 1257
+    high: 1283
+    low: 1249
+    close: 1281
+    settled: 1283
+    last_settled: 1265
+    diff1: -2
+    diff2: -18
+    amount: 1104
+    hold: 3088
+    hold_diff: 2
+    amount_money: 8380.74
+  '20130403':
+    open: 1276
+    high: 1282
+    low: 1266
+    close: 1270
+    settled: 1265
+    last_settled: 1273
+    diff1: 5
+    diff2: 8
+    amount: 1016
+    hold: 3192
+    hold_diff: 104
+    amount_money: 7762.97

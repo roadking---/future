@@ -1,0 +1,120 @@
+commodity: 焦煤
+month: '201402'
+records:
+  '20130322':
+    open: 1402
+    high: 1402
+    low: 1320
+    close: 1350
+    settled: 1380
+    last_settled: 1357
+    diff1: -30
+    diff2: -23
+    amount: 30
+    hold: 0
+    hold_diff: 0
+    amount_money: 244.32
+  '20130325':
+    open: .NAN
+    high: .NAN
+    low: .NAN
+    close: 1357
+    settled: 1357
+    last_settled: 1357
+    diff1: 0
+    diff2: 0
+    amount: 0
+    hold: 0
+    hold_diff: 0
+    amount_money: 0
+  '20130326':
+    open: .NAN
+    high: .NAN
+    low: .NAN
+    close: 1357
+    settled: 1357
+    last_settled: 1357
+    diff1: 0
+    diff2: 0
+    amount: 0
+    hold: 0
+    hold_diff: 0
+    amount_money: 0
+  '20130327':
+    open: .NAN
+    high: .NAN
+    low: .NAN
+    close: 1357
+    settled: 1357
+    last_settled: 1357
+    diff1: 0
+    diff2: 0
+    amount: 0
+    hold: 0
+    hold_diff: 0
+    amount_money: 0
+  '20130328':
+    open: .NAN
+    high: .NAN
+    low: .NAN
+    close: 1357
+    settled: 1357
+    last_settled: 1357
+    diff1: 0
+    diff2: 0
+    amount: 0
+    hold: 0
+    hold_diff: 0
+    amount_money: 0
+  '20130329':
+    open: .NAN
+    high: .NAN
+    low: .NAN
+    close: 1357
+    settled: 1357
+    last_settled: 1357
+    diff1: 0
+    diff2: 0
+    amount: 0
+    hold: 0
+    hold_diff: 0
+    amount_money: 0
+  '20130401':
+    open: 1304
+    high: 1304
+    low: 1304
+    close: 1304
+    settled: 1357
+    last_settled: 1304
+    diff1: -53
+    diff2: -53
+    amount: 2
+    hold: 2
+    hold_diff: 2
+    amount_money: 15.65
+  '20130402':
+    open: .NAN
+    high: .NAN
+    low: .NAN
+    close: 1304
+    settled: 1304
+    last_settled: 1304
+    diff1: 0
+    diff2: 0
+    amount: 0
+    hold: 2
+    hold_diff: 0
+    amount_money: 0
+  '20130403':
+    open: 1288
+    high: 1288
+    low: 1272
+    close: 1272
+    settled: 1304
+    last_settled: 1283
+    diff1: -32
+    diff2: -21
+    amount: 10
+    hold: 8
+    hold_diff: 6
+    amount_money: 77.01

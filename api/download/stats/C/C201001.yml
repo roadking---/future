@@ -1,0 +1,133 @@
+commodity: C
+month: '201001'
+records:
+  '20100104':
+    open: 1791
+    high: 1800
+    low: 1730
+    close: 1730
+    settled: 1806
+    last_settled: 1762
+    diff1: -76
+    diff2: -44
+    amount: 8
+    hold: 458
+    hold_diff: -18
+    amount_money: 14.11
+  '20100105':
+    open: 1765
+    high: 1817
+    low: 1765
+    close: 1817
+    settled: 1762
+    last_settled: 1789
+    diff1: 55
+    diff2: 27
+    amount: 858
+    hold: 458
+    hold_diff: 0
+    amount_money: 1535.17
+  '20100106':
+    open: .NAN
+    high: .NAN
+    low: .NAN
+    close: 1789
+    settled: 1789
+    last_settled: 1789
+    diff1: 0
+    diff2: 0
+    amount: 0
+    hold: 458
+    hold_diff: 0
+    amount_money: 0
+  '20100107':
+    open: .NAN
+    high: .NAN
+    low: .NAN
+    close: 1789
+    settled: 1789
+    last_settled: 1789
+    diff1: 0
+    diff2: 0
+    amount: 0
+    hold: 458
+    hold_diff: 0
+    amount_money: 0
+  '20100108':
+    open: .NAN
+    high: .NAN
+    low: .NAN
+    close: 1789
+    settled: 1789
+    last_settled: 1789
+    diff1: 0
+    diff2: 0
+    amount: 0
+    hold: 458
+    hold_diff: 0
+    amount_money: 0
+  '20100111':
+    open: .NAN
+    high: .NAN
+    low: .NAN
+    close: 1789
+    settled: 1789
+    last_settled: 1789
+    diff1: 0
+    diff2: 0
+    amount: 0
+    hold: 0
+    hold_diff: -458
+    amount_money: 0
+  '20100112':
+    open: .NAN
+    high: .NAN
+    low: .NAN
+    close: 1789
+    settled: 1789
+    last_settled: 1789
+    diff1: 0
+    diff2: 0
+    amount: 0
+    hold: 0
+    hold_diff: 0
+    amount_money: 0
+  '20100113':
+    open: .NAN
+    high: .NAN
+    low: .NAN
+    close: 1789
+    settled: 1789
+    last_settled: 1789
+    diff1: 0
+    diff2: 0
+    amount: 0
+    hold: 0
+    hold_diff: 0
+    amount_money: 0
+  '20100114':
+    open: .NAN
+    high: .NAN
+    low: .NAN
+    close: 1789
+    settled: 1789
+    last_settled: 1789
+    diff1: 0
+    diff2: 0
+    amount: 0
+    hold: 0
+    hold_diff: 0
+    amount_money: 0
+  '20100115':
+    open: .NAN
+    high: .NAN
+    low: .NAN
+    close: 1789
+    settled: 1789
+    last_settled: 1789
+    diff1: 0
+    diff2: 0
+    amount: 0
+    hold: 0
+    hold_diff: 0
+    amount_money: 0

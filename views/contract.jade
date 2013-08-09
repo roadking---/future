@@ -1,0 +1,33 @@
+extends layout
+
+block content
+	h3
+		span= data.commodity
+		span= data.month
+	
+	table#contract
+		tr
+			th.date Date
+			th Open
+			th High
+			th Low
+			th Close
+			th Settled
+			th Diff1
+			th Diff2
+			th Amount
+			th Hold
+			th Hold Diff
+		each date in _.keys(data.records)
+			tr
+				td= date
+				td= data.records[date].open
+				td= data.records[date].high
+				td= data.records[date].low
+				td= data.records[date].close
+				td= data.records[date].settled
+				td= data.records[date].diff1
+				td= data.records[date].diff2
+				td= data.records[date].amount
+				td= data.records[date].hold
+				td= data.records[date].hold_diff

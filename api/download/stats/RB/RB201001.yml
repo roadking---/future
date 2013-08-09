@@ -1,0 +1,123 @@
+commodity: RB
+month: '201001'
+records:
+  '20100104':
+    last_settled: 3896
+    open: 3899
+    high: 3965
+    low: 3899
+    close: 3965
+    settled: 3942
+    diff1: 69
+    diff2: 46
+    amount: 3062
+    hold: 19500
+    hold_diff: -2762
+  '20100105':
+    last_settled: 3942
+    open: 3775
+    high: 3975
+    low: 3775
+    close: 3975
+    settled: 3958
+    diff1: 33
+    diff2: 16
+    amount: 1620
+    hold: 18300
+    hold_diff: -1200
+  '20100106':
+    last_settled: 3958
+    open: 3990
+    high: 4020
+    low: 3990
+    close: 4006
+    settled: 4003
+    diff1: 48
+    diff2: 45
+    amount: 3840
+    hold: 15840
+    hold_diff: -2460
+  '20100107':
+    last_settled: 4003
+    open: 4040
+    high: 4055
+    low: 3901
+    close: 3975
+    settled: 4013
+    diff1: -28
+    diff2: 10
+    amount: 3000
+    hold: 13320
+    hold_diff: -2520
+  '20100108':
+    last_settled: 4013
+    open: 3961
+    high: 4037
+    low: 3951
+    close: 3975
+    settled: 3968
+    diff1: -38
+    diff2: -45
+    amount: 2700
+    hold: 11580
+    hold_diff: -1740
+  '20100111':
+    last_settled: 3968
+    open: 3961
+    high: 4020
+    low: 3961
+    close: 4020
+    settled: 4006
+    diff1: 52
+    diff2: 38
+    amount: 300
+    hold: 11400
+    hold_diff: -180
+  '20100112':
+    last_settled: 4006
+    open: 3981
+    high: 4019
+    low: 3981
+    close: 4019
+    settled: 3998
+    diff1: 13
+    diff2: -8
+    amount: 600
+    hold: 11220
+    hold_diff: -180
+  '20100113':
+    last_settled: 3998
+    open: 4000
+    high: 4000
+    low: 3980
+    close: 3987
+    settled: 3995
+    diff1: -11
+    diff2: -3
+    amount: 3240
+    hold: 9660
+    hold_diff: -1560
+  '20100114':
+    last_settled: 3995
+    open: 3990
+    high: 4000
+    low: 3981
+    close: 3981
+    settled: 3993
+    diff1: -14
+    diff2: -2
+    amount: 1200
+    hold: 9060
+    hold_diff: -600
+  '20100115':
+    last_settled: 3993
+    open: 3985
+    high: 3985
+    low: 3955
+    close: 3975
+    settled: 3969
+    diff1: -18
+    diff2: -24
+    amount: 1140
+    hold: 8400
+    hold_diff: -660

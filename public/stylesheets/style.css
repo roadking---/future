@@ -1,0 +1,32 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+a {
+  color: #00b7ff;
+}
+li> * + * {
+  margin-left: 10px;
+}
+li.trades > * + span {
+  margin-left: 10px;
+}
+.trade_count {
+  font-style: italic;
+  margin-left: 10px;
+}
+.win_negative {
+  color: #f00;
+}
+table#contract th,
+table#holds th {
+  text-align: left;
+  width: 60px;
+}
+table#contract th.date,
+table#holds th.date {
+  width: 100px;
+}
+table#ga td {
+  min-width: 60px;
+}

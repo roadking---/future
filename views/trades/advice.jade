@@ -1,0 +1,36 @@
+extends ../layout
+
+block content
+	h3 Advice
+	
+	p= new Date().toString('HH:mm:ss')
+	
+	if !trends.length
+		p no advice
+	else
+		table
+			tr
+				th contract
+				th price
+				th hold
+				th direction
+				th win
+			each t in trends
+				tr(f_revert='#{t.revert}')
+					td: a(href="/contract/#{t.contract}")= t.contract
+					td= t.price
+					td= t.hold
+					td= t.direction
+					td= t.win
+					td: a(href='/buy/#{t.contract}/#{t.price}') buy
+					td: a(href='/sell/#{t.contract}/#{t.price}') sell
+
+	script
+		var now = new Date().getTime();
+		if(now >= Date.today().set({hour:9}).getTime() && now <= Date.today().set({hour:15}).getTime()){
+			setInterval(function(){
+					location.reload();
+			}, 60*1000);
+		}
+		$('tr[f_revert="true"]').css('color', 'red')
+	

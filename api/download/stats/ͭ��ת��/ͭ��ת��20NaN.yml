@@ -1,0 +1,63 @@
+commodity: 铜期转现
+month: 20NaN
+records:
+  '20110819':
+    last_settled: null
+    open: null
+    high: 67040
+    low: 67040
+    close: null
+    settled: null
+    diff1: null
+    diff2: null
+    amount: 10
+    hold: null
+    hold_diff: null
+  '20120801':
+    last_settled: null
+    open: null
+    high: 55260
+    low: 55260
+    close: null
+    settled: null
+    diff1: null
+    diff2: null
+    amount: 40
+    hold: null
+    hold_diff: null
+  '20120803':
+    last_settled: null
+    open: null
+    high: 54930
+    low: 54930
+    close: null
+    settled: null
+    diff1: null
+    diff2: null
+    amount: 200
+    hold: null
+    hold_diff: null
+  '20120824':
+    last_settled: null
+    open: null
+    high: 56160
+    low: 56160
+    close: null
+    settled: null
+    diff1: null
+    diff2: null
+    amount: 160
+    hold: null
+    hold_diff: null
+  '20130221':
+    last_settled: 
+    open: 
+    high: 58350
+    low: 58350
+    close: 
+    settled: 
+    diff1: 
+    diff2: 
+    amount: 400
+    hold: 
+    hold_diff: 

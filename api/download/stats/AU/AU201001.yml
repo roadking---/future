@@ -1,0 +1,123 @@
+commodity: AU
+month: '201001'
+records:
+  '20100104':
+    last_settled: 241.36
+    open: null
+    high: null
+    low: null
+    close: 241
+    settled: 241.36
+    diff1: -0.36
+    diff2: 0
+    amount: null
+    hold: 12
+    hold_diff: 0
+  '20100105':
+    last_settled: 241.36
+    open: null
+    high: null
+    low: null
+    close: 241
+    settled: 241.36
+    diff1: -0.36
+    diff2: 0
+    amount: null
+    hold: 12
+    hold_diff: 0
+  '20100106':
+    last_settled: 241.36
+    open: null
+    high: null
+    low: null
+    close: 241
+    settled: 241.36
+    diff1: -0.36
+    diff2: 0
+    amount: null
+    hold: 12
+    hold_diff: 0
+  '20100107':
+    last_settled: 241.36
+    open: null
+    high: null
+    low: null
+    close: 241
+    settled: 241.36
+    diff1: -0.36
+    diff2: 0
+    amount: null
+    hold: 12
+    hold_diff: 0
+  '20100108':
+    last_settled: 241.36
+    open: null
+    high: null
+    low: null
+    close: 241
+    settled: 241.36
+    diff1: -0.36
+    diff2: 0
+    amount: null
+    hold: 12
+    hold_diff: 0
+  '20100111':
+    last_settled: 241.36
+    open: null
+    high: null
+    low: null
+    close: 241
+    settled: 241.36
+    diff1: -0.36
+    diff2: 0
+    amount: null
+    hold: 12
+    hold_diff: 0
+  '20100112':
+    last_settled: 241.36
+    open: null
+    high: null
+    low: null
+    close: 241
+    settled: 241.36
+    diff1: -0.36
+    diff2: 0
+    amount: null
+    hold: 12
+    hold_diff: 0
+  '20100113':
+    last_settled: 241.36
+    open: null
+    high: null
+    low: null
+    close: 241
+    settled: 241.36
+    diff1: -0.36
+    diff2: 0
+    amount: null
+    hold: 12
+    hold_diff: 0
+  '20100114':
+    last_settled: 241.36
+    open: null
+    high: null
+    low: null
+    close: 241
+    settled: 241.36
+    diff1: -0.36
+    diff2: 0
+    amount: null
+    hold: 12
+    hold_diff: 0
+  '20100115':
+    last_settled: 241.36
+    open: 
+    high: 
+    low: 
+    close: 241
+    settled: 241.36
+    diff1: -0.36
+    diff2: 0
+    amount: 
+    hold: 12
+    hold_diff: 0

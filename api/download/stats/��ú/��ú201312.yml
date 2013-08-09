@@ -1,0 +1,120 @@
+commodity: 焦煤
+month: '201312'
+records:
+  '20130322':
+    open: 1378
+    high: 1378
+    low: 1300
+    close: 1323
+    settled: 1380
+    last_settled: 1337
+    diff1: -57
+    diff2: -43
+    amount: 72
+    hold: 14
+    hold_diff: 14
+    amount_money: 577.78
+  '20130325':
+    open: 1339
+    high: 1339
+    low: 1304
+    close: 1304
+    settled: 1337
+    last_settled: 1327
+    diff1: -33
+    diff2: -10
+    amount: 26
+    hold: 4
+    hold_diff: -10
+    amount_money: 207.09
+  '20130326':
+    open: 1326
+    high: 1326
+    low: 1314
+    close: 1314
+    settled: 1327
+    last_settled: 1320
+    diff1: -13
+    diff2: -7
+    amount: 4
+    hold: 4
+    hold_diff: 0
+    amount_money: 31.68
+  '20130327':
+    open: .NAN
+    high: .NAN
+    low: .NAN
+    close: 1320
+    settled: 1320
+    last_settled: 1320
+    diff1: 0
+    diff2: 0
+    amount: 0
+    hold: 4
+    hold_diff: 0
+    amount_money: 0
+  '20130328':
+    open: 1317
+    high: 1317
+    low: 1317
+    close: 1317
+    settled: 1320
+    last_settled: 1317
+    diff1: -3
+    diff2: -3
+    amount: 4
+    hold: 2
+    hold_diff: -2
+    amount_money: 31.61
+  '20130329':
+    open: .NAN
+    high: .NAN
+    low: .NAN
+    close: 1317
+    settled: 1317
+    last_settled: 1317
+    diff1: 0
+    diff2: 0
+    amount: 0
+    hold: 2
+    hold_diff: 0
+    amount_money: 0
+  '20130401':
+    open: 1272
+    high: 1272
+    low: 1265
+    close: 1265
+    settled: 1317
+    last_settled: 1267
+    diff1: -52
+    diff2: -50
+    amount: 6
+    hold: 4
+    hold_diff: 2
+    amount_money: 45.63
+  '20130402':
+    open: .NAN
+    high: .NAN
+    low: .NAN
+    close: 1267
+    settled: 1267
+    last_settled: 1267
+    diff1: 0
+    diff2: 0
+    amount: 0
+    hold: 4
+    hold_diff: 0
+    amount_money: 0
+  '20130403':
+    open: 1277
+    high: 1277
+    low: 1277
+    close: 1277
+    settled: 1267
+    last_settled: 1277
+    diff1: 10
+    diff2: 10
+    amount: 2
+    hold: 4
+    hold_diff: 0
+    amount_money: 15.33

@@ -1,0 +1,27 @@
+commodity: 天然橡胶期转现
+month: 20NaN
+records:
+  '20121106':
+    last_settled: null
+    open: null
+    high: 23630
+    low: 23630
+    close: null
+    settled: null
+    diff1: null
+    diff2: null
+    amount: 200
+    hold: null
+    hold_diff: null
+  '20121107':
+    last_settled: 
+    open: 
+    high: 23415
+    low: 23415
+    close: 
+    settled: 
+    diff1: 
+    diff2: 
+    amount: 30
+    hold: 
+    hold_diff: 

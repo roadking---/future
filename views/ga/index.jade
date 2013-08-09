@@ -1,0 +1,12 @@
+extends ../layout
+
+block content
+	h3 GA
+	p: a(href='/ga/clean') clean
+	table#ga
+		each c in _.keys(commodities)
+			tr
+				td= c
+				td= commodities[c]
+				td: a(href='/ga/best/#{c}') best
+				td: a(href='/ga/population/#{c}') population

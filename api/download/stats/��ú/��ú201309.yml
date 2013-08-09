@@ -1,0 +1,120 @@
+commodity: 焦煤
+month: '201309'
+records:
+  '20130322':
+    open: 1280
+    high: 1304
+    low: 1257
+    close: 1267
+    settled: 1340
+    last_settled: 1276
+    diff1: -73
+    diff2: -64
+    amount: 845512
+    hold: 96086
+    hold_diff: 96086
+    amount_money: .NAN
+  '20130325':
+    open: 1276
+    high: 1286
+    low: 1251
+    close: 1258
+    settled: 1276
+    last_settled: 1266
+    diff1: -18
+    diff2: -10
+    amount: 722022
+    hold: 139712
+    hold_diff: 43626
+    amount_money: .NAN
+  '20130326':
+    open: 1255
+    high: 1276
+    low: 1249
+    close: 1272
+    settled: 1266
+    last_settled: 1265
+    diff1: 6
+    diff2: -1
+    amount: 835326
+    hold: 141544
+    hold_diff: 1832
+    amount_money: .NAN
+  '20130327':
+    open: 1279
+    high: 1279
+    low: 1260
+    close: 1261
+    settled: 1265
+    last_settled: 1266
+    diff1: -4
+    diff2: 1
+    amount: 499234
+    hold: 126094
+    hold_diff: -15450
+    amount_money: .NAN
+  '20130328':
+    open: 1264
+    high: 1273
+    low: 1248
+    close: 1259
+    settled: 1266
+    last_settled: 1263
+    diff1: -7
+    diff2: -3
+    amount: 646266
+    hold: 99004
+    hold_diff: -27090
+    amount_money: .NAN
+  '20130329':
+    open: 1257
+    high: 1268
+    low: 1231
+    close: 1240
+    settled: 1263
+    last_settled: 1252
+    diff1: -23
+    diff2: -11
+    amount: 734728
+    hold: 96024
+    hold_diff: -2980
+    amount_money: .NAN
+  '20130401':
+    open: 1235
+    high: 1242
+    low: 1202
+    close: 1202
+    settled: 1252
+    last_settled: 1215
+    diff1: -50
+    diff2: -37
+    amount: 710132
+    hold: 155262
+    hold_diff: 59238
+    amount_money: .NAN
+  '20130402':
+    open: 1197
+    high: 1231
+    low: 1192
+    close: 1228
+    settled: 1215
+    last_settled: 1209
+    diff1: 13
+    diff2: -6
+    amount: .NAN
+    hold: 130106
+    hold_diff: -25156
+    amount_money: .NAN
+  '20130403':
+    open: 1225
+    high: 1233
+    low: 1214
+    close: 1216
+    settled: 1209
+    last_settled: 1221
+    diff1: 7
+    diff2: 12
+    amount: 606564
+    hold: 103114
+    hold_diff: -26992
+    amount_money: .NAN

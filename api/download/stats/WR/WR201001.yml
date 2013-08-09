@@ -1,0 +1,123 @@
+commodity: WR
+month: '201001'
+records:
+  '20100104':
+    last_settled: 3766
+    open: 3800
+    high: 3800
+    low: 3800
+    close: 3800
+    settled: 3800
+    diff1: 34
+    diff2: 34
+    amount: 60
+    hold: 720
+    hold_diff: 0
+  '20100105':
+    last_settled: 3800
+    open: 3880
+    high: 3900
+    low: 3870
+    close: 3900
+    settled: 3878
+    diff1: 100
+    diff2: 78
+    amount: 360
+    hold: 660
+    hold_diff: -60
+  '20100106':
+    last_settled: 3878
+    open: 3920
+    high: 3950
+    low: 3920
+    close: 3950
+    settled: 3939
+    diff1: 72
+    diff2: 61
+    amount: 180
+    hold: 660
+    hold_diff: 0
+  '20100107':
+    last_settled: 3939
+    open: 4000
+    high: 4120
+    low: 3910
+    close: 3910
+    settled: 3993
+    diff1: -29
+    diff2: 54
+    amount: 300
+    hold: 660
+    hold_diff: 0
+  '20100108':
+    last_settled: 3993
+    open: 3910
+    high: 3910
+    low: 3910
+    close: 3910
+    settled: 3910
+    diff1: -83
+    diff2: -83
+    amount: 60
+    hold: 660
+    hold_diff: 0
+  '20100111':
+    last_settled: 3910
+    open: null
+    high: null
+    low: null
+    close: 3910
+    settled: 3910
+    diff1: 0
+    diff2: 0
+    amount: null
+    hold: 660
+    hold_diff: 0
+  '20100112':
+    last_settled: 3910
+    open: null
+    high: null
+    low: null
+    close: 3910
+    settled: 3910
+    diff1: 0
+    diff2: 0
+    amount: null
+    hold: 660
+    hold_diff: 0
+  '20100113':
+    last_settled: 3910
+    open: 3910
+    high: 3910
+    low: 3910
+    close: 3910
+    settled: 3910
+    diff1: 0
+    diff2: 0
+    amount: 60
+    hold: 660
+    hold_diff: 0
+  '20100114':
+    last_settled: 3910
+    open: 3850
+    high: 3850
+    low: 3850
+    close: 3850
+    settled: 3850
+    diff1: -60
+    diff2: -60
+    amount: 60
+    hold: 660
+    hold_diff: 0
+  '20100115':
+    last_settled: 3850
+    open: 3910
+    high: 3910
+    low: 3910
+    close: 3910
+    settled: 3910
+    diff1: 60
+    diff2: 60
+    amount: 120
+    hold: 660
+    hold_diff: 0

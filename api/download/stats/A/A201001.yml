@@ -1,0 +1,133 @@
+commodity: A
+month: '201001'
+records:
+  '20100104':
+    open: 4107
+    high: 4108
+    low: 4107
+    close: 4108
+    settled: 4069
+    last_settled: 4107
+    diff1: 39
+    diff2: 38
+    amount: 10
+    hold: 26
+    hold_diff: -26
+    amount_money: 41.08
+  '20100105':
+    open: .NAN
+    high: .NAN
+    low: .NAN
+    close: 4107
+    settled: 4107
+    last_settled: 4107
+    diff1: 0
+    diff2: 0
+    amount: 0
+    hold: 26
+    hold_diff: 0
+    amount_money: 0
+  '20100106':
+    open: .NAN
+    high: .NAN
+    low: .NAN
+    close: 4107
+    settled: 4107
+    last_settled: 4107
+    diff1: 0
+    diff2: 0
+    amount: 0
+    hold: 26
+    hold_diff: 0
+    amount_money: 0
+  '20100107':
+    open: .NAN
+    high: .NAN
+    low: .NAN
+    close: 4107
+    settled: 4107
+    last_settled: 4107
+    diff1: 0
+    diff2: 0
+    amount: 0
+    hold: 26
+    hold_diff: 0
+    amount_money: 0
+  '20100108':
+    open: .NAN
+    high: .NAN
+    low: .NAN
+    close: 4107
+    settled: 4107
+    last_settled: 4107
+    diff1: 0
+    diff2: 0
+    amount: 0
+    hold: 26
+    hold_diff: 0
+    amount_money: 0
+  '20100111':
+    open: .NAN
+    high: .NAN
+    low: .NAN
+    close: 4107
+    settled: 4107
+    last_settled: 4107
+    diff1: 0
+    diff2: 0
+    amount: 0
+    hold: 26
+    hold_diff: 0
+    amount_money: 0
+  '20100112':
+    open: .NAN
+    high: .NAN
+    low: .NAN
+    close: 4107
+    settled: 4107
+    last_settled: 4107
+    diff1: 0
+    diff2: 0
+    amount: 0
+    hold: 26
+    hold_diff: 0
+    amount_money: 0
+  '20100113':
+    open: .NAN
+    high: .NAN
+    low: .NAN
+    close: 4107
+    settled: 4107
+    last_settled: 4107
+    diff1: 0
+    diff2: 0
+    amount: 0
+    hold: 26
+    hold_diff: 0
+    amount_money: 0
+  '20100114':
+    open: .NAN
+    high: .NAN
+    low: .NAN
+    close: 4107
+    settled: 4107
+    last_settled: 4107
+    diff1: 0
+    diff2: 0
+    amount: 0
+    hold: 26
+    hold_diff: 0
+    amount_money: 0
+  '20100115':
+    open: .NAN
+    high: .NAN
+    low: .NAN
+    close: 4107
+    settled: 4107
+    last_settled: 4107
+    diff1: 0
+    diff2: 0
+    amount: 0
+    hold: 0
+    hold_diff: -26
+    amount_money: 0

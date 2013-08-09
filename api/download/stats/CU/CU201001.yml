@@ -1,0 +1,123 @@
+commodity: CU
+month: '201001'
+records:
+  '20100104':
+    last_settled: 59440
+    open: 59400
+    high: 60250
+    low: 59400
+    close: 59930
+    settled: 60090
+    diff1: 490
+    diff2: 650
+    amount: 2480
+    hold: 11940
+    hold_diff: -1190
+  '20100105':
+    last_settled: 60090
+    open: 59930
+    high: 60340
+    low: 59650
+    close: 60300
+    settled: 60070
+    diff1: 210
+    diff2: -20
+    amount: 1370
+    hold: 12000
+    hold_diff: 60
+  '20100106':
+    last_settled: 60070
+    open: 60600
+    high: 61500
+    low: 60600
+    close: 61450
+    settled: 61250
+    diff1: 1380
+    diff2: 1180
+    amount: 2230
+    hold: 10800
+    hold_diff: -1200
+  '20100107':
+    last_settled: 61250
+    open: 61800
+    high: 63000
+    low: 60520
+    close: 60950
+    settled: 61580
+    diff1: -300
+    diff2: 330
+    amount: 3350
+    hold: 9570
+    hold_diff: -1230
+  '20100108':
+    last_settled: 61580
+    open: 60700
+    high: 61280
+    low: 59750
+    close: 60600
+    settled: 60420
+    diff1: -980
+    diff2: -1160
+    amount: 1770
+    hold: 8850
+    hold_diff: -720
+  '20100111':
+    last_settled: 60420
+    open: 60500
+    high: 62000
+    low: 60500
+    close: 61660
+    settled: 61510
+    diff1: 1240
+    diff2: 1090
+    amount: 2180
+    hold: 7880
+    hold_diff: -970
+  '20100112':
+    last_settled: 61510
+    open: 60880
+    high: 61450
+    low: 60880
+    close: 61250
+    settled: 61120
+    diff1: -260
+    diff2: -390
+    amount: 2170
+    hold: 6930
+    hold_diff: -950
+  '20100113':
+    last_settled: 61120
+    open: 59300
+    high: 60230
+    low: 59300
+    close: 59500
+    settled: 59820
+    diff1: -1620
+    diff2: -1300
+    amount: 3250
+    hold: 5440
+    hold_diff: -1490
+  '20100114':
+    last_settled: 59820
+    open: 60650
+    high: 60770
+    low: 60340
+    close: 60450
+    settled: 60580
+    diff1: 630
+    diff2: 760
+    amount: 1340
+    hold: 4760
+    hold_diff: -680
+  '20100115':
+    last_settled: 60580
+    open: 60450
+    high: 60600
+    low: 60010
+    close: 60110
+    settled: 60360
+    diff1: -470
+    diff2: -220
+    amount: 1750
+    hold: 4010
+    hold_diff: -750
